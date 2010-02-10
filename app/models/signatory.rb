@@ -1,0 +1,2 @@
+class Signatory < Signature
+end

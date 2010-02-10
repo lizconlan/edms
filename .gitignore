@@ -1,0 +1,9 @@
+public/stylesheets/*.css
+.DS_Store
+db/*.sql
+coverage
+.git
+tmp
+doc
+config/database.yml
+log
